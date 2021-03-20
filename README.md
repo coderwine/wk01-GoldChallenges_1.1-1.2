@@ -1,9 +1,8 @@
 **Starting these Challenges**
 
-You will need to **FORK** this repository (repo) to your own account.  After you have forked it to your account, you will then need to **CLONE** that repo to your computer.  By doing this, you will be able to work through the challenges and push your code back to your own repo.  
+You will need to **FORK** this repository (repo) to your own account.  After you have forked it to your account, you will then need to **CLONE** that repo to your computer.  By doing this, you will be able to work through the challenges and push your code back to your own repo.  All instructions are within each file.  Below details the instructions for both challenges.
 
 **1.1 Loops & Conditionals Challenge**
-- Instructional
 
 1. Write a for loop that counts from 0-10. Each time the loop runs, it should invoke a callback function (see step 2).
     
@@ -17,7 +16,6 @@ You will need to **FORK** this repository (repo) to your own account.  After you
     ![1.1 step 3](./screenshots/1.1%20step%203.jpg)
 
 **1.2 Arrays & Objects Challenge**
-- Instructional
 
 1. Write an object literal that stores information about your favorite movie. nameOfMovie, runTime, characters, and genre should be keys directly inside the object.
         - characters will be an array that should store no more than 2 character objects, each of which stores name, age, and items.
